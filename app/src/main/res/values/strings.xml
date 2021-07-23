@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kunal\'s Cafe</string>
+    <string name="enter_your_name" translatable="false">Enter your name</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="decrease_value" translatable="false">-</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="increase_value" translatable="false">+</string>
+    <string name="order_summary" translatable="false">Order Summary</string>
+    <string name="order" translatable="false">Order</string>
+</resources>
