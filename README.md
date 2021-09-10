@@ -5,6 +5,8 @@ An app mainly focused towards user-input.
 
 It takes in your name, number of cups of coffee and the kind of topping (whipped cream or chocolate) over it and prints the final order to be sent to anyone using any messaging service which includes Messages, Gmail, WhatsApp and many more.
 
+(Download the APK file to test the app)
+
 ## Home screen of the app =>
 
 ![Home screen](https://user-images.githubusercontent.com/77429521/132101223-f0eb2013-e209-4d20-88b1-b64332d3f547.jpg)
